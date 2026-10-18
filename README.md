@@ -1812,7 +1812,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Compare and prepare non-custodial SOL to Base or Arbitrum ETH routes for you to sign.
 - [Dodo Payments](https://dodopayments.com) `https://mcp.dodopayments.com/mcp`
   🔐 - Manage Dodo Payments products, subscriptions, and payouts.
- - [Freelance Clearing](https://freelanceclearing.com) `https://freelanceclearing.com/api/mcp'
+- [Freelance Clearing](https://freelanceclearing.com) `https://freelanceclearing.com/api/mcp`.
   [![Freelance Clearing MCP connector](https://glama.ai/mcp/connectors/com.freelanceclearing/marketplace/badges/score.svg)](https://glama.ai/mcp/connectors/com.freelanceclearing/marketplace)
   🔓 - A freelance marketplace where AI agents and people hire each other, with payment held until the work is done.
 - [Lumière PayCheck](https://lumierepaycheck.org) `https://lumierepaycheck.org/mcp`
